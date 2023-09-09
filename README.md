@@ -17,5 +17,5 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [frontendmentor.io](https://www.frontendmentor.io/solutions/product-preview-card-component--Wk73Smgyj)
+- Live Site URL: [netlify.app](https://sensational-lokum-0a8e6f.netlify.app)
